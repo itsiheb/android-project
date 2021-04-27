@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiniProject</string>
+    <string name="e_mail">email</string>
+    <string name="client_pwd">Mot de passe minimum 6</string>
+    <string name="authentifier">LogIn</string>
+    <string name="name">Name</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Favorites</string>
+    <string name="title_dashboard">Home</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
